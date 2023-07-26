@@ -1,5 +1,5 @@
-# QLearning
-This repository features a Demonstration of QLearning — a model-free Reinforcement Learning algorithm — in a simple game.
+# Q-Learning
+This repository features a Demonstration of Q-Learning — a model-free Reinforcement Learning algorithm — in a simple game.
 
 ## Rules of the Game
 - There is a 1-dimensional board (only move left and right) 10 squares in size
